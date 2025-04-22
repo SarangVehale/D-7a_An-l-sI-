@@ -1,3 +1,10 @@
+# D-7a_An-l-sI-
+
+## What is this project about?? 
+
+This project is a research survey on sexual abuse in men and their legal issue. This repository allows you to access the dataset of the survey and also provide the used data analytics and inferences. Kindly use this ethically and with legal considerations. Peace ✌️
+
+
 ## 🎯 What is Inferential Analysis and Why It Matters
 
 When a lot of people respond to a survey, there are usually patterns hidden inside the answers. **Inferential analysis** is the name we give to the set of methods that look for those patterns, relationships, and trends so that we can make conclusions about groups of people—even if we didn’t ask everyone.
