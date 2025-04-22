@@ -1,0 +1,451 @@
+,coef
+your_highest_education_level_Graduate ,0.266
+your_highest_education_level_Other,0.2863
+your_highest_education_level_Postgraduate,-0.3511
+your_highest_education_level_Pursuing UG,0.1438
+your_highest_education_level_Pursuing graduation ,0.2188
+your_highest_education_level_Secondary,-0.3621
+your_highest_education_level_Undergraduate,0.1196
+your_current_employment_status_Self-employed,-0.0505
+your_current_employment_status_Student,-0.866
+your_current_employment_status_Unemployed,-0.201
+where_do_you_currently_reside_.,0.1565
+where_do_you_currently_reside_Aggyathuri ,0.164
+where_do_you_currently_reside_Amingaon,0.1206
+where_do_you_currently_reside_Assam,0.2154
+where_do_you_currently_reside_Assam ,0.1123
+where_do_you_currently_reside_Basistha ,0.0719
+where_do_you_currently_reside_Coimbatore,0.1442
+where_do_you_currently_reside_Currently i live in home,-0.3033
+where_do_you_currently_reside_Delhi,-0.1174
+where_do_you_currently_reside_Delhi ,0.2985
+where_do_you_currently_reside_Delhi NCR,-0.2515
+where_do_you_currently_reside_Dhubri,-0.1359
+where_do_you_currently_reside_Dibrugarh/ Guwahati ,-0.2644
+where_do_you_currently_reside_East Delhi,0.2038
+where_do_you_currently_reside_Gadchiroli ,0.1136
+where_do_you_currently_reside_Greater Noida ,-0.1024
+where_do_you_currently_reside_Gujarat ,-0.4323
+where_do_you_currently_reside_Gurchuk,0.1916
+where_do_you_currently_reside_Gurgaon,0.0969
+"where_do_you_currently_reside_Gurugram, Haryana ",0.2188
+where_do_you_currently_reside_Guwahati,-0.3048
+where_do_you_currently_reside_Guwahati ,-0.4426
+where_do_you_currently_reside_Guwahati Assam ,0.1887
+"where_do_you_currently_reside_Guwahati, Assam",-0.1211
+"where_do_you_currently_reside_Guwahati, Assam ",-0.2386
+"where_do_you_currently_reside_Guwahati, assam ",0.0734
+"where_do_you_currently_reside_Guwahati, hedayetpur P.D.chaliha road ",-0.2243
+where_do_you_currently_reside_Haryana ,0.1548
+where_do_you_currently_reside_India,0.2374
+where_do_you_currently_reside_Jaipur ,0.0899
+where_do_you_currently_reside_Jhagrapar ,0.0798
+where_do_you_currently_reside_Madhya Pradesh ,-0.1586
+"where_do_you_currently_reside_Mehrauli, New Delhi",0.2157
+where_do_you_currently_reside_Na,0.1878
+where_do_you_currently_reside_New Delhi ,0.1034
+where_do_you_currently_reside_Pub Boragaon ,-0.107
+where_do_you_currently_reside_Pune,-0.232
+"where_do_you_currently_reside_Pune, Maharashtra ",-0.1729
+where_do_you_currently_reside_Ranchi (Due to University),0.1438
+where_do_you_currently_reside_Rohini,0.2618
+where_do_you_currently_reside_Rohini ,-0.29
+"where_do_you_currently_reside_Rohini sector 2,Delhi",0.1783
+"where_do_you_currently_reside_Santipur , Guwahati ",0.1637
+"where_do_you_currently_reside_Santipur, Guwahati ",0.0645
+"where_do_you_currently_reside_Shillong, Meghalaya",-0.0804
+where_do_you_currently_reside_Siliguri,-0.182
+where_do_you_currently_reside_Siliguri ,0.2729
+"where_do_you_currently_reside_Sonia Vihar, Delhi -110094",0.1116
+where_do_you_currently_reside_Tamil Nadu,-0.2763
+where_do_you_currently_reside_assam,-0.2655
+where_do_you_currently_reside_delhi,-0.1719
+where_do_you_currently_reside_guwahati,0.2129
+please_specify_your_native_place_.,0.1565
+please_specify_your_native_place_6 mile,0.266
+please_specify_your_native_place_Aggyathuri assam,-0.3048
+please_specify_your_native_place_Amingaon,0.1206
+please_specify_your_native_place_Assam,-0.1485
+please_specify_your_native_place_Assam ,0.1739
+"please_specify_your_native_place_Ayodhya, Uttar Pradesh",0.1116
+please_specify_your_native_place_Barpeta,0.1659
+please_specify_your_native_place_Basistha ,0.0719
+please_specify_your_native_place_Bihar,0.0925
+please_specify_your_native_place_Bihar ,0.0316
+please_specify_your_native_place_Chandigarh,0.0969
+please_specify_your_native_place_Changsari,-0.3367
+"please_specify_your_native_place_Changsari, North Guwahati ",-0.3018
+please_specify_your_native_place_Delhi,-0.3188
+please_specify_your_native_place_Delhi ,-0.0282
+please_specify_your_native_place_Delhi NCR,-0.2515
+please_specify_your_native_place_Dhemaji,0.0794
+"please_specify_your_native_place_Dhubri, Assam ",0.0645
+please_specify_your_native_place_Fatashil ambari,-0.1132
+please_specify_your_native_place_Gadchiroli ,0.1136
+please_specify_your_native_place_Gurchuk,0.1916
+"please_specify_your_native_place_Gurugram, Haryana",0.2188
+please_specify_your_native_place_Guwahati,-0.4299
+please_specify_your_native_place_Guwahati ,-0.2034
+please_specify_your_native_place_Guwahati Assam ,0.0148
+"please_specify_your_native_place_Guwahati, Assam",0.3482
+"please_specify_your_native_place_Guwahati, Assam ",0.0734
+"please_specify_your_native_place_Guwahati, Hengerabari ",-0.3033
+please_specify_your_native_place_Hamirpur Uttar Pradesh ,0.1002
+please_specify_your_native_place_Haryana ,-0.1345
+please_specify_your_native_place_Howrah,-0.1773
+please_specify_your_native_place_Hyderabad ,-0.29
+please_specify_your_native_place_India,-0.1962
+please_specify_your_native_place_Jabalpur ,-0.1586
+please_specify_your_native_place_Kanpur ,0.1233
+"please_specify_your_native_place_Kanpur, Uttar Pradesh",0.0808
+please_specify_your_native_place_Kaushambi UP,0.281
+please_specify_your_native_place_Kerala,0.2525
+please_specify_your_native_place_Kolkata,0.2942
+please_specify_your_native_place_Kolkata (Home),0.1438
+please_specify_your_native_place_Ludhiana punjab,-0.1719
+please_specify_your_native_place_Maligaon,0.0829
+please_specify_your_native_place_Maligaon ,-0.1752
+"please_specify_your_native_place_Mangaldai, Assam",0.5034
+"please_specify_your_native_place_Mangaldoi,Darrang",-0.1907
+please_specify_your_native_place_Near WTP malviya nagar ,0.0899
+please_specify_your_native_place_New Ashok Nagar,0.1034
+please_specify_your_native_place_North ghy ,-0.3002
+please_specify_your_native_place_Pub Boragaon ,-0.3456
+"please_specify_your_native_place_Pune, Maharashtra ",-0.0598
+"please_specify_your_native_place_Shillong, Meghalaya",-0.0804
+please_specify_your_native_place_Siliguri,-0.0325
+please_specify_your_native_place_Tinsukia ,0.0732
+please_specify_your_native_place_Udaipur ,0.2374
+please_specify_your_native_place_Uttrakhand ,0.5056
+please_specify_your_native_place_Yamuna vihar ,0.1513
+please_specify_your_native_place_assam,-0.0526
+if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment,0.3641
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Assault",0.2633
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Assault, Rape, domestic abuse",-0.1773
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Misconduct",0.6873
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Misconduct, Assault",-0.0965
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Misconduct, Stalking",-0.1317
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Misconduct, Stalking, Assault",0.0664
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Misconduct, Stalking, Assault, ",0.2241
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Stalking",-0.5656
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Harassment, Stalking, Assault",-0.4623
+if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Misconduct,-0.1843
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Misconduct, ",-0.4407
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Misconduct, Assault",0.316
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Misconduct, Stalking",0.202
+"if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Misconduct, Stalking, Assault",0.4806
+if_yes_what_were_the_most_common_ones_you_ve_heard_of_in_india_select_all_that_apply_Stalking,-0.5234
+where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media,-0.2432
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Personal Experience (Self or Someone Close)",0.1131
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Personal Experience (Self or Someone Close), Others",0.1795
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media",0.4566
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Movies/TV Shows",-0.1378
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Movies/TV Shows, Others",0.0899
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Others",-0.1162
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Personal Experience (Self or Someone Close)",0.2657
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Personal Experience (Self or Someone Close), Movies/TV Shows",-0.131
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Personal Experience (Self or Someone Close), Movies/TV Shows, Others",0.4761
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_News Media, Social Media, Personal Experience (Self or Someone Close), Others",0.1136
+where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Others,0.1733
+where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Personal Experience (Self or Someone Close),0.076
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Personal Experience (Self or Someone Close), Movies/TV Shows",-0.1719
+where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Social Media,-0.1181
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Social Media, Movies/TV Shows",-0.935
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Social Media, Personal Experience (Self or Someone Close)",0.0514
+"where_did_you_learn_about_male_sexual_abuse_cases_select_all_that_apply_Social Media, Personal Experience (Self or Someone Close), Movies/TV Shows",0.5045
+do_you_believe_male_sexual_abuse_is_a_prevalent_issue_in_india_Not Sure,0.1811
+do_you_believe_male_sexual_abuse_is_a_prevalent_issue_in_india_Yes,0.4894
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Authority figures (Teachers, Employers, Police, etc.), Others",0.1206
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",-0.0018
+who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members,0.1387
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Authority figures (Teachers, Employers, Police, etc.)",0.2657
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",-0.8146
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances",-0.2341
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Authority figures (Teachers, Employers, Police, etc.)",-0.3002
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",-0.2386
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships, Others",0.1136
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Strangers",0.2289
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Strangers, Authority figures (Teachers, Employers, Police, etc.)",0.1438
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Strangers, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",-0.1656
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Friends/Acquaintances, Strangers, Others",0.1442
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Strangers",-0.2933
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Strangers, Authority figures (Teachers, Employers, Police, etc.)",-0.0381
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Strangers, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",0.2188
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Strangers, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships, Others",0.0808
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Strangers, Women in intimate relationships",-0.075
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Family members, Women in intimate relationships",0.0015
+who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances,0.3982
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",0.5056
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Others",0.2196
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Strangers",0.0543
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Strangers, Authority figures (Teachers, Employers, Police, etc.)",-0.4305
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Strangers, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",0.1503
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Strangers, Women in intimate relationships",0.0719
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Women in intimate relationships",0.4337
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Friends/Acquaintances, Women in intimate relationships, Others",0.2051
+who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Others,0.0249
+who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Strangers,-0.2589
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Strangers, Authority figures (Teachers, Employers, Police, etc.)",-0.0218
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Strangers, Authority figures (Teachers, Employers, Police, etc.), Women in intimate relationships",0.3173
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Strangers, Women in intimate relationships",-0.2832
+"who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Strangers, Women in intimate relationships, Others",-0.1164
+who_do_you_think_are_the_most_common_perpetrators_of_sexual_abuse_against_men_select_all_that_apply_Women in intimate relationships,0.3623
+men_who_report_sexual_abuse_are_not_taken_seriously_Disagree,-0.2001
+men_who_report_sexual_abuse_are_not_taken_seriously_Neutral,-0.2294
+men_who_report_sexual_abuse_are_not_taken_seriously_Strongly agree,-0.1857
+men_who_report_sexual_abuse_are_not_taken_seriously_Strongly disagree,-0.1123
+fear_of_social_judgment_stops_male_victims_from_coming_forward_Neutral,0.04
+fear_of_social_judgment_stops_male_victims_from_coming_forward_Strongly agree,0.1668
+fear_of_social_judgment_stops_male_victims_from_coming_forward_Strongly disagree,-0.1123
+sexual_abuse_against_men_is_as_serious_as_sexual_abuse_against_women_Disagree,-0.6599
+sexual_abuse_against_men_is_as_serious_as_sexual_abuse_against_women_Neutral,0.169
+sexual_abuse_against_men_is_as_serious_as_sexual_abuse_against_women_Strongly agree,-0.0782
+sexual_abuse_against_men_is_as_serious_as_sexual_abuse_against_women_Strongly disagree,-0.1123
+men_can_protect_themselves_better_than_women_from_sexual_abuse_so_it_s_less_of_a_problem_Disagree,0.0395
+men_can_protect_themselves_better_than_women_from_sexual_abuse_so_it_s_less_of_a_problem_Neutral,0.2079
+men_can_protect_themselves_better_than_women_from_sexual_abuse_so_it_s_less_of_a_problem_Strongly agree,0.15
+men_can_protect_themselves_better_than_women_from_sexual_abuse_so_it_s_less_of_a_problem_Strongly disagree,-0.446
+the_media_does_not_give_enough_attention_to_male_sexual_abuse_cases_Disagree,-0.0537
+the_media_does_not_give_enough_attention_to_male_sexual_abuse_cases_Neutral,-0.3969
+the_media_does_not_give_enough_attention_to_male_sexual_abuse_cases_Strongly agree,0.8516
+the_media_does_not_give_enough_attention_to_male_sexual_abuse_cases_Strongly disagree,-0.2763
+are_you_aware_of_any_legal_protections_for_male_victims_in_india_Not sure,-0.346
+are_you_aware_of_any_legal_protections_for_male_victims_in_india_Yes,-0.0752
+current_indian_laws_on_sexual_crimes_are_biased_towards_women_and_ignore_male_victims_Disagree,0.0626
+current_indian_laws_on_sexual_crimes_are_biased_towards_women_and_ignore_male_victims_Neutral,-0.5236
+current_indian_laws_on_sexual_crimes_are_biased_towards_women_and_ignore_male_victims_Strongly agree,-0.2377
+current_indian_laws_on_sexual_crimes_are_biased_towards_women_and_ignore_male_victims_Strongly disagree,-0.417
+do_you_believe_india_should_introduce_gender_neutral_sexual_abuse_laws_Not sure,0.0432
+do_you_believe_india_should_introduce_gender_neutral_sexual_abuse_laws_Yes,0.0405
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Fear of being mocked or disbelieved, ",0.1123
+what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection,0.7572
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Fear of being mocked or disbelieved",-0.8606
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Police refusing to file cases, Fear of being mocked or disbelieved",0.1637
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Police refusing to file cases, Social stigma & shame",0.3951
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Police refusing to file cases, Social stigma & shame, Fear of being mocked or disbelieved",0.4582
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Police refusing to file cases, Social stigma & shame, Fear of being mocked or disbelieved, The media too does not play an active role in discussing these issues.",0.0822
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Social stigma & shame",-0.1092
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Lack of legal protection, Social stigma & shame, Fear of being mocked or disbelieved",-0.077
+what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Police refusing to file cases,0.3399
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Police refusing to file cases, Social stigma & shame",-0.4746
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Police refusing to file cases, Social stigma & shame, Fear of being mocked or disbelieved",0.3765
+what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Social stigma & shame,0.4224
+"what_challenges_do_you_think_prevent_male_victims_of_sexual_abuse_from_getting_justice_select_all_that_apply_Social stigma & shame, Fear of being mocked or disbelieved",-0.0228
+police_take_sexual_abuse_complaints_from_men_as_seriously_as_they_do_for_women_Disagree,0.0283
+police_take_sexual_abuse_complaints_from_men_as_seriously_as_they_do_for_women_Neutral,0.5997
+police_take_sexual_abuse_complaints_from_men_as_seriously_as_they_do_for_women_Strongly agree,-0.2243
+police_take_sexual_abuse_complaints_from_men_as_seriously_as_they_do_for_women_Strongly disagree,0.3313
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_
+
+ Gender-neutral laws for sexual offences.
+",-0.1722
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_
+1. Gender-Neutral Laws – Many legal definitions of sexual violence and domestic abuse are framed around female victims. Laws should be gender-neutral to acknowledge that men can also be victims.
+2. Improved Reporting and Investigation Procedures – Male survivors often face stigma when reporting crimes. Law enforcement and legal systems should undergo training to handle male victim cases without bias or disbelief.
+3. Access to Support Services – Government funding should be allocated to shelters, counseling, and legal aid specifically for male survivors, similar to what exists for female survivors.
+4. Stronger Protection Against False Accusations – While false accusations are rare, men accused of crimes like domestic violence or sexual assault often face severe consequences. Legal processes should ensure fair investigations before taking punitive actions
+5. Equal Parental Rights in Family Courts – Family courts often favor mothers in custody cases, assuming men are perpetrators rather than victims of domestic abuse. Legal reforms should ensure fair treatment of fathers, especially those who are survivors of abuse.
+6. Prison Reform – Male prisoners are at high risk of sexual violence, yet laws protecting them are often weakly enforced. Stronger measures should be in place to prevent and address sexual violence in prisons.
+7. Education and Awareness Campaigns – Laws alone aren’t enough. Public campaigns should challenge societal stereotypes that men cannot be victims and encourage male survivors to seek justice without shame.",0.0899
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_**Legal reforms needed to support male survivors (in short):**
+
+1. **Gender-neutral laws** for sexual and domestic violence.
+2. **Equal access** to survivor support services.
+3. **Trauma-informed training** for police and judiciary.
+4. **Confidentiality protections** to reduce stigma.
+5. **Extended reporting time** for abuse cases.
+6. **Improved prison protections** for male victims.
+7. **Fair treatment** in family and custody law.
+8. **Awareness campaigns** to challenge bias and encourage reporting.",0.1513
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_.,-0.0121
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_1. Keep survivors names and stories private.
+2. Have clear rules for reporting and investigating crimes.
+3. Provide help and support for survivors.
+4. Make laws stronger to stop abuse and punish offenders.
+5. Educate people about the issue.
+6. Stop unfair treatment and negative attitudes towards survivors.
+",0.1739
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_1. Policy changes 
+2. Gender Neutral Laws 
+3. Awareness in Law enforcement agencies ",-0.1729
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_1.Access to legal protections and support 
+2.confidentiality and privacy protections
+3.Reducing social and cultural stigma
+4.expanding support services ",-0.2894
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_According to modern period changes,-0.1962
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_All the initially created laws were for the benefit for both men and women. Whatever changes were made by amendments and enactment of new laws that favour for both men and women.,-0.3002
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Assailant should be should be sentenced death penalty ,0.3706
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Awareness and emotional support. ,-0.2044
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Being aware,0.0879
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Better laws for empowering women,0.2027
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Breaking social stigma, social sensitization",-0.2529
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Campaign, programs ",-0.1024
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Can be more efficient towards the situation of that particular individual,0.1878
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Don't know ,-0.1752
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Dont know,0.1123
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Equal law and order should be implement for both men and women against sexual abuse ,0.2241
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Equal laws and rights against sexual abuse for males should be stringent in India. ,0.0734
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender Neutral Anti Abuse Laws,0.1438
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender Neutral Law,0.266
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender inclusive legal definitions,-0.1235
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral justice ,-0.3018
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws,-0.3145
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws , awareness programs etc ",-0.2386
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws can help and proper investigation should be emphasised irrespective of the gender of the victim.,-0.263
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws should be framed and implemented all over the country and campaigns along with initiatives shall be launched to curb incidents like these.,0.0822
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws with equivalent punishments,0.2618
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws, awareness regarding male abuse",-0.1773
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral laws, social services and awareness programs.",-0.1508
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutral sexual abuse laws should be implemented ,-0.1907
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Gender neutrality in CJS,0.2438
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Give equal rights to everyone ,0.1206
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Give them ample support and this type of heinous act should be punishable no matter who the victim are be it men or women,0.0794
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Got v less to do with legal reforms. It has more to do with legal practices and judicial attitude towards the victims/survivors,0.2342
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Government funding for shelters, counseling, and victim support should be explicitly available to male survivors.
+Laws should mandate that service providers accommodate male victims without stigma or dismissal.",0.2273
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Government funding for survivor services that prioritise both men and women equally ,-0.182
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Government should implement new laws related to the sexual crime, society and media also need to consider male victims as a victim of sexual abuse should not criticize them for that.",0.281
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Helplines and counseling services,0.1316
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_I have no idea ,0.0645
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Implement gender-neutral sexual assault laws, improve reporting mechanisms, and provide specialized support for male survivors.",-0.3367
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Increasing funding for support services,-0.2243
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_India needs gender-neutral sexual assault laws, legal recognition of male victims, dedicated support systems, and stronger enforcement of existing provisions. Expanding POCSO-like protections to adult males and ensuring fair reporting mechanisms without stigma are crucial reforms.",0.1116
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Laws and protection should be given to both the genders equally,-0.3048
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Laws should be gender neutral ,0.1916
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Legal action ,0.164
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Legal frameworks should be made gender-neutral for male victims, with confidential reporting and counseling services available to them.
+Law enforcement agencies should receive sensitivity training to ensure that men's cases are taken seriously.",0.1002
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Legal reforms should ensure gender-neutral sexual violence laws, recognizing male survivors equally. Additionally, specialized support services and stronger enforcement against stigma-related barriers are needed.",0.5034
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Legal reforms should include gender-neutral sexual assault laws and better support services.
+
+",-0.1164
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Legal reforms to support male survivors could include:
+
+1. Gender-inclusive laws that explicitly recognize male victims.
+
+
+2. Confidential reporting options tailored to male survivors’ needs.
+
+
+3. Increased funding for male-specific support services.
+
+
+4. Training for law enforcement and judiciary on male survivor issues.
+
+
+5. Stronger protections against stigma and discrimination in legal processes.
+
+
+
+",0.1233
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Making and implementing new laws.
+",0.2188
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Many laws define domestic violence, sexual assault, and rape in ways that assume female victims and male perpetrators. Laws should be gender-neutral to ensure male survivors receive equal protection.",0.2196
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Many rape crisis centers are designed exclusively for female survivors, leaving male survivors with few resources.",0.3407
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Men are just needed to be heard.,0.0732
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Mmmmm,0.1298
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Modifications in the criminal justice system,0.2729
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_More sensitisation is required ,0.1036
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Na,-0.1586
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_National commission for male welfare,-0.4052
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Need new laws to prevent male sexual abuse as well.,0.2374
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Need to change some policies to prevent these abuses ,0.1637
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_New laws,0.2038
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_New laws should come up to protect men’s rights too,-0.3677
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Nil,-0.232
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Police reforms ,0.1548
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Punishments for the police officers who mock and do not take the male victims seriously.,-0.1407
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Raise awareness about the statistics of male victims getting abused.
+Laws should enforce gender neutral decisions based on the facts.
+Authorities like Police should be given training as they don’t take male victims seriously.",0.2157
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Reforms are needed to amend definitions, remove gender bias, increase reporting options, enhance victim support, and provide training for professionals to support male survivors of abuse.",-0.29
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Reforms that include better laws for male survivors ,0.1564
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Seperate clause for any kind of sexual abuse against male shd be considered, with strict punishment. They are to be considered same as a women do.",-0.4323
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Sexual abuse act need to made .. most of the case male also victim by male or female sometimes they also victim by third Gender ,0.1795
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Shelters and safe houses,-0.1835
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Social awareness and campaigns, gender-equality in addressing SA",-0.1317
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Stop supporting the LGBTQ concept and mindset and also taking men victim seriously and women get equally punished.,0.2942
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Stricter and more neutral laws,-0.2969
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Strong law and order ,-0.1132
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Support, legal aids & forums. Rehabilitation centres. Fair custody and divorce laws. Legal protection against sexual violence ",0.1131
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Supporting male survivors requires legal reforms that address gender biases, improve access to justice, and ensure proper support systems. Many laws and policies still overlook or minimize the experiences of men who face sexual violence, domestic abuse, or other forms of harm.  
+
+One key reform is making legal definitions gender-inclusive. Many laws assume only women can be victims, particularly in cases of sexual violence and domestic abuse. Expanding these definitions ensures that male survivors receive equal legal protection.  
+
+Access to services must also be improved. Many shelters, crisis hotlines, and victim support programs primarily serve women, leaving men with limited options. Laws should mandate equal access and funding for male-specific support services.  
+
+Law enforcement and judicial systems need better training. Many officers and judges dismiss or misunderstand male victimization due to stereotypes. Mandatory training can help ensure cases are taken seriously and handled properly.  
+
+Family court reform is also crucial. Men who experience domestic abuse often struggle in custody battles because courts tend to favor mothers. Recognizing male victimization in custody decisions and protection orders is necessary for fairness.  
+
+Confidentiality protections should be strengthened. Many male survivors fear coming forward due to stigma. Stronger privacy laws can help protect their identities and encourage reporting.  
+
+Prison reform is another urgent issue. Sexual violence against men in prisons is widespread but often ignored. Stronger oversight, better protections, and stricter accountability measures are needed.  
+
+Finally, public awareness campaigns should be part of legal reforms. Challenging stereotypes and educating the public about male victimization can help reduce stigma and encourage survivors to seek help.  
+
+Would you like to focus on reforms in a specific country or legal system?",0.2051
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_That’s a powerful and important question. Legal reforms to support male survivors of abuse, assault, or violence often lag behind broader discussions of victim support. Here are some key areas where reforms could make a real difference:
+
+1. Gender-Inclusive Legal Definitions
+
+Many laws around sexual assault or domestic violence are still written with female victims in mind. Revising statutes to use gender-neutral language ensures male survivors are fully recognized and protected under the law.
+
+
+2. Improved Reporting Procedures
+
+Create trauma-informed, male-inclusive reporting mechanisms. Some men fear they won’t be believed or will be ridiculed if they report abuse. Police, prosecutors, and judges need training to take all reports seriously, regardless of gender.
+
+
+3. Access to Support Services
+
+Legally mandate access to shelters, counseling, and legal aid for male survivors. Currently, many services are either unavailable or poorly equipped to handle
+
+
+",0.0925
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_The neglect that male survivors of sexual abuse experience must be acknowledged and addressed by legal measures. Abuse frequently starts early and is perpetrated by familiar people through unwanted physical contact, coercion, and even sexual performance parody. The erroneous belief that men must be ""strong"" and independent often leads to their rejection, mockery, and expectation that they will suffer through trauma in silence. Lawmakers should create specialised support networks, guarantee gender-neutral acknowledgement of survivors, and take strong action against offenders in order to counteract this. To break the stigma and empower males to speak up without fear of prejudice, mental health resources and awareness campaigns are crucial.",0.0387
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_The police officials should get a proper class on male sexual abuse and should know the intensity of the act.
+There should be a proper law to be made for male sexual abuse.
+Also the society should accept that its a crime not some shameful thing to be mocked.
+Awareness classes at school and university to be conducted and they should know what is right and wrong.
+And also they should feel its okay to share these things.",0.1465
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_The society and especially the government is becoming biased towards women. Every law and actions are made for them and are given more attention. There are numerous cases of male sexual assault but are not reported. I think government should put same emphasis on men as they do in case of women. Some special reforms in the laws and especially awareness which will help men to know that their problems really matters. And the male population too has to understood that male sexual assault is also an important thing to focus on so as women.,-0.4317
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Therapy ,0.1783
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_There should be laws that protect male victims of sexual abuse. There should be more awareness campaigns from the govt towards the mass population. The offenders should be punished. ,-0.2644
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_They should be given equal treatments and judicial support as woman receives.,-0.107
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_They should be taken as adversely as the females are taken,-0.2763
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_To support male survivors, legal reforms should include amendments to existing laws to remove gender-specific language and ensure equal protection. Additionally, laws should provide for increased funding and resources for services specifically supporting male survivors.",-0.3033
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_Unity,0.0719
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_We need to implement a commission for men as well. There should be a central location where men can seek support.,0.1442
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_We should make legal supports for men security ,-0.2001
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_better institutional support,0.103
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_each legal body should run without any gender bias,0.0969
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_legal protection for male victim, laws implementation on the behalf of male victims, mental support from society. ",0.0808
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_non biased judgement irrespective of gender
+corrective measures to be taken against offenders
+equal acceptance of f.i.r.s by men",0.2129
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_पहली बात तो मुझे यही पता नहीं कि पुरुषों के लिए कोई कानून है भी या नहीं। 
+पैदा होने से अब तक जितने भी कानून देखे महिलाओं के लिए ही देखे है। भले ही समाज पुरुषप्रधान है कहकर चिल्लाया जाता हो लेकिन महिलाओं के मुकाबले पुरुषों को मजबूत मानने वाले समाज ने पुरुष को कभी उस दृष्टि से देखा ही नहीं कि उसके ऊपर भी कोई अत्याचार हो सकता है।",0.1136
+what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_নাজানো,0.0798
+"what_legal_reforms_do_you_think_are_needed_to_support_male_survivors_●addition of new clause to the Indian law
+●spread awareness 
+●provide counselling and support ",-0.2655
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Encouraging men to report abuse without fear",-0.1549
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Increasing awareness through media campaigns",0.2894
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Increasing awareness through media campaigns, Encouraging men to report abuse without fear",0.1084
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Increasing awareness through media campaigns, Providing more psychological support for male survivors",-0.0959
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Increasing awareness through media campaigns, Providing more psychological support for male survivors, Encouraging men to report abuse without fear",-0.3224
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Increasing awareness through media campaigns, Providing more psychological support for male survivors, Encouraging men to report abuse without fear, Sexual education at schools.",0.266
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Providing more psychological support for male survivors",-0.7111
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Creating gender-neutral sexual violence laws, Providing more psychological support for male survivors, Encouraging men to report abuse without fear",0.4625
+what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Encouraging men to report abuse without fear,-0.2243
+what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Increasing awareness through media campaigns,-0.1108
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Increasing awareness through media campaigns, Encouraging men to report abuse without fear",0.2188
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Increasing awareness through media campaigns, Providing more psychological support for male survivors",0.4227
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Increasing awareness through media campaigns, Providing more psychological support for male survivors, Encouraging men to report abuse without fear",-0.9538
+what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Providing more psychological support for male survivors,0.2197
+"what_do_you_think_is_the_best_way_to_address_male_sexual_abuse_in_india_select_all_that_apply_Providing more psychological support for male survivors, Encouraging men to report abuse without fear",-0.182
+do_you_think_support_from_the_family_can_help_reduce_stigma_and_encourage_male_survivors_to_speak_up_Not Sure,0.119
+do_you_think_support_from_the_family_can_help_reduce_stigma_and_encourage_male_survivors_to_speak_up_Yes,0.238
+do_you_think_support_from_the_social_circle_can_help_reduce_stigma_and_encourage_male_survivors_to_speak_up_Not sure,0.3219
+do_you_think_support_from_the_social_circle_can_help_reduce_stigma_and_encourage_male_survivors_to_speak_up_Yes,-0.1927
