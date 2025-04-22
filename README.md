@@ -87,6 +87,7 @@ Each method answers different research questions. Used together, they create a r
 
 ## 📂 File-by-File Explanation of Output Data
 
+If you wish to check out the data, you can access the inferential_analysis.sql and view it perhaps using a database viewever. Also refer to the /results directory for the entire inferential data files 
 ---
 
 #### 1. `age_by_category.csv`
